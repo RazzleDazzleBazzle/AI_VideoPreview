@@ -9,23 +9,23 @@ AI AppStore Preview is a macOS utility for capturing, editing, and exporting App
 Data Collection
 AI AppStore Preview does not collect, transmit, store remotely, or share any personal data, usage data, analytics, or telemetry of any kind.
 
-What Stays on Your Device
-All data created or used by this app remains exclusively on your Mac:
-• Screen captures and video recordings are saved to a local folder you choose (default: ~/​Pictures​/​App​Store​Preview/)
-• Your media library index is stored locally at ~/​Library​/​Application ​Support​/​AI​_​App​Store​Preview​/library​.json
-• Your storage folder preference is saved in your local User​Defaults
-• No data leaves your device at any time
+What Stays on Your Device  
+All data created or used by this app remains exclusively on your Mac:  
+• Screen captures and video recordings are saved to a local folder you choose (default: ~/​Pictures​/​App​Store​Preview/)  
+• Your media library index is stored locally at ~/​Library​/​Application ​Support​/​AI​_​App​Store​Preview​/library​.json  
+• Your storage folder preference is saved in your local User​Defaults  
+• No data leaves your device at any time  
 
-Permissions Used
-| Permission | Why |
-|---|---|
-| Screen Recording | Required to capture screenshots and record video of your screen and app windows |
-| File Access (user-selected) | Required to read imported media files and write exports to your chosen output folder |
+Permissions Used  
+| Permission | Why |  
+|---|---|  
+| Screen Recording | Required to capture screenshots and record video of your screen and app windows |  
+| File Access (user-selected) | Required to read imported media files and write exports to your chosen output folder |  
 
-Third-Party Services
-None. The app makes no network requests and uses no third-party SDKs, analytics frameworks, or advertising libraries.
+Third-Party Services  
+None. The app makes no network requests and uses no third-party SDKs, analytics frameworks, or advertising libraries.  
 
-Children's Privacy
+Children's Privacy  
 This app does not collect data from anyone, including children under 13.
 
 Contact
