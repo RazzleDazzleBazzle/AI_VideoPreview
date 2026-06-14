@@ -1,13 +1,16 @@
+Support Details:
+Contact: darrenwilson23@icloud.com
+
 Privacy Policy
 
-AI AppStore Preview
+AI Video Preview
 Last updated: May 2026
 
 Overview
-AI AppStore Preview is a macOS utility for capturing, editing, and exporting App Store screenshots and video previews. Your privacy is straightforward with this app — it collects nothing and sends nothing anywhere.
+AI Video Store Preview is a macOS utility for capturing, editing, and exporting App Store screenshots and video previews. Your privacy is straightforward with this app — it collects nothing and sends nothing anywhere.
 
 Data Collection
-AI AppStore Preview does not collect, transmit, store remotely, or share any personal data, usage data, analytics, or telemetry of any kind.
+AI Video Preview does not collect, transmit, store remotely, or share any personal data, usage data, analytics, or telemetry of any kind.
 
 What Stays on Your Device  
 All data created or used by this app remains exclusively on your Mac:  
